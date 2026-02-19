@@ -19,8 +19,10 @@ title: BG Filmworks
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
-#  About Me: "aboutme"
+navbar-links:
+  Trailers: "aboutme"
+  Scripts: "scripts"
+  Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
